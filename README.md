@@ -74,8 +74,7 @@ node poc.js 127.0.0.1 30120 true 3600
 ## Contributing
 Feel free to fork this project, submit issues, or make pull requests. If you encounter any bugs or have suggestions for improvements, don't hesitate to open an issue.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Author
 - **Minatsukix86**
