@@ -1,10 +1,11 @@
 
 # FiveMClient-POC
 
-## Description
+
 
 ![FiveM DDoS Image](https://www.ouiheberg.com/assets/img/fivemddos.png)
 
+## Description
 This is a Proof of Concept (POC) for interacting with a FiveM client using HTTP requests and proxies. The script simulates requests to a server, rotating through a list of proxies, and logs progress and results.
 
 The main focus of this POC is to make various HTTP requests to a FiveM server, simulating client behavior by using proxy rotation and testing multiple endpoints. This could be useful for testing the server's robustness, latency, or handling of proxy-based traffic.
